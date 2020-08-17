@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Thanks for stopping by my github page. 
+I'm currently working on building out a portfolio to showcase my skills with cloud infrastructure, writing & python!
 <!--
 **sdemoya/sdemoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
