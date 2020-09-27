@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks for stopping by my github page. 
 
-I'm currently working on building out a portfolio to showcase my skills with cloud infrastructure, python and documentation! It's still in progress but will be visible [here](https://sdemoya.github.io/).
+I'm currently working on building out a portfolio to showcase my skills. It's still in progress, but is visible [here](https://sdemoya.github.io/).
 <!--
 **sdemoya/sdemoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
