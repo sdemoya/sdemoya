@@ -1,8 +1,7 @@
 ### Hi there 👋
 Thanks for stopping by my github page. 
 
-I'm currently building out a portfolio to showcase python data visualization and aws cloud infrastructure. It's still in progress, but is visible [here](https://sdemoya.github.io/). Always open to contructive feedback!
-
+I'm currently building out a [portfolio](https://sdemoya.github.io/) to showcase python data visualization and aws cloud infrastructure. 
 <!--
 **sdemoya/sdemoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
