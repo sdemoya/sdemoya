@@ -2,7 +2,7 @@
 Thanks for stopping by! I'm currently building out a [portfolio](https://sdemoya.github.io/) to demonstrate a working knowledge of data analytics and cloud infrastructure. 
 
 If you are interested in collaborating or have constructive criticism, I'd love to hear from you. Send me a message on [LinkedIn](https://www.linkedin.com/in/skyedemoya/)! 
-
+ 
 On a personal note, I'm passionate about sustainability, wildlife conservation and space exploration.  
 <!--
 **sdemoya/sdemoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
